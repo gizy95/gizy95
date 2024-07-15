@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Antonio</h1>
 <h3 align="center">A passionate frontend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gizy95&label=Profile%20views&color=0e75b6&style=flat" alt="gizy95" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gizy95" alt="gizy95" /></a> </p>
+
+- 🤝 I’m looking for **job**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gizy95&show_icons=true&locale=en&layout=compact" alt="gizy95" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizy95&show_icons=true&locale=en" alt="gizy95" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gizy95&show_icons=true&theme=tokyonight&locale=en" alt="gizy95" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gizy95&" alt="gizy95" /></p>
